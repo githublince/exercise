@@ -6,4 +6,8 @@ two
 master for conflict
 jkk
 
-branch2
+
+master in conflict2
+
+
+master commit 1
