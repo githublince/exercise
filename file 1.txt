@@ -1,13 +1,1 @@
-
-fwdg
-
-two
-
-master for conflict
-jkk
-
-
-master in conflict2
-
-
-master commit 1
+master edit 1
