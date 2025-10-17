@@ -7,7 +7,11 @@ master for conflict
 jkk
 
 
-master in conflict2
 
 
 master commit 1
+
+
+edit 1
+edit 2
+edit 3
